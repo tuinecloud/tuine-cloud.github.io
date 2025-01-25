@@ -38,6 +38,6 @@ At Tuine Cloud, we are driven by a commitment to **quality** and **confidence**.
 
 ## Contact Us
 For inquiries or more information, please reach out to us:
-- **Email**: [your-email@example.com]  
-- **Phone**: [your-phone-number]  
+- **Email**: [tuinecloudoriginal@gmail.com]  
+  
 - **Website**: [https://tuine-cloud.github.io](https://tuine-cloud.github.io)
